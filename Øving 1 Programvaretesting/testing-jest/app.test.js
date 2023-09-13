@@ -1,4 +1,4 @@
-import {isLeapYear} from './app.js';
+	import {isLeapYear} from './app.js';
 
 describe('A year is a leap year', () => {   
     test.each([
